@@ -1,0 +1,7 @@
+class : Todo
+table: todos
+
+fields:
+  kategori : String
+  judul : String
+  keterangan : String
